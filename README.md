@@ -1,4 +1,9 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/WIQ0N0OUvei1OW1h9Z" width="100"/>
+</div>
+
 ## Hi there 👋
+
 
 <!--
 **AdonyasG/AdonyasG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
